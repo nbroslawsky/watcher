@@ -1,0 +1,12 @@
+{
+	"name" : "watcher",
+	"version" : "0.0.1",
+	"author" : "Nathan Broslawsky <nathan.broslawsky@nsfive.com>",
+	"scripts" : {
+		"start" : "node ./lib/watcher.js"
+	},
+	"main" : "./lib/watcher.js",
+	"dependencies" : {
+		"carrier" : "0.x"
+	}
+}
